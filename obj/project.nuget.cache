@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AF8ANLGLQ4EUP/MU6Q0xYA2W3o/JalJOPp4BBfz7jp7HmHg5L8kesLCgPaNxJYU+PPWOxtsJz34sb76vHgaIsA==",
+  "success": true,
+  "projectFilePath": "C:\\code\\TS-F#\\HandleDocs\\HandleDocs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jkeeg\\.nuget\\packages\\fsharp.core\\6.0.7\\fsharp.core.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
